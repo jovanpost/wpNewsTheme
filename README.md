@@ -19,4 +19,5 @@ The front-page is divided into the sections:
 On the post page you can read the selected article, but you also will have the chance to see which are the top news from the Header Grid and the Featured areas (in the middle column, right of the article), even without visiting the front-page. Under the article there is an area called Similar news which displays the latest 4 articles from the same category.
 
 The static (HTML) website is live at - https://news-theme-jp.netlify.com/
+
 There is also a WordPress website with sample articles live at - http://newstheme.rf.gd
