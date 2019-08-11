@@ -2,15 +2,15 @@
 
 <main>
 
-    <div id="headerSlider">
+    <div id="headerGrid">
 
         <?php // header slider posts loop begins here
-                        $headerSliderPosts = new WP_Query('cat=8&posts_per_page=5');
+                        $$headerGridPosts = new WP_Query('cat=8&posts_per_page=5');
                         
 
-                        if ($headerSliderPosts->have_posts()) :
+                        if ($$headerGridPosts->have_posts()) :
 
-                                while ($headerSliderPosts->have_posts()) : $headerSliderPosts->the_post(); ?>
+                                while ($$headerGridPosts->have_posts()) : $$headerGridPosts->the_post(); ?>
 
 
         <div class="headerItem">
