@@ -2,7 +2,7 @@
 
 <footer>
 
-      <a href="https://github.com/jovanpost"><p>&copy; J Post | 2019</p></a> 
+      <a href="https://jovanpost.github.io/portfolio/"><p>&copy; J Post | 2019</p></a> 
 
 
 </footer>
